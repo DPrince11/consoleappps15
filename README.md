@@ -1,11 +1,11 @@
 # C# Console Applications App01 to App05
 | Author | Details |
 | ---- | ---- |
-**Name**: | Student Name  |
-**Student ID**: | 12345678 |
+**Name**: | Digiorno prince  |
+**Student ID**: | 22204721 |
 **Course:** | Computing |
 **Module**: | CO453     |
-**Started**: | January 2021 |    
+**Started**: | february 2023 |    
 
 1. App01: Distance Converter
 2. App02: BMI Calculator
